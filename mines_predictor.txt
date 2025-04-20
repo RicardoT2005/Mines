@@ -1,0 +1,4 @@
+mines_predictor/
+├── main.py
+├── mines_logic.py
+└── requirements.txt
